@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "arial-Bold";
+  font-display: swap;
+  src: url("../fonts/arial-Bold.woff") format("woff"), url("../fonts/arial-Bold.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "arial";
+  font-display: swap;
+  src: url("../fonts/arial.woff") format("woff"), url("../fonts/arial.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "openSans-Italic";
+  font-display: swap;
+  src: url("../fonts/openSans-Italic.woff") format("woff"), url("../fonts/openSans-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "segoeui";
+  font-display: swap;
+  src: url("../fonts/segoeui.woff") format("woff"), url("../fonts/segoeui.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+.header {
+  display: flex;
+}
+
+.container {
+  width: 1085px;
+}
+
+/*# sourceMappingURL=style.css.map */
